@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "category": "cat1",
+            "id": 1,
+            "name": "product1",
+            "price": 12.324,
+            "rank": 1
+        },
+        {
+            "category": "cat1",
+            "id": 2,
+            "name": "product2",
+            "price": 12.334,
+            "rank": 2
+        },
+        {
+            "category": "cat2",
+            "id": 3,
+            "name": "product3",
+            "price": 15.324,
+            "rank": 3
+        },
+        {
+            "category": "cat2",
+            "id": 4,
+            "name": "product4",
+            "price": 15.324,
+            "rank": 3
+        },
+        {
+            "category": "cat1",
+            "id": 5,
+            "name": "product1",
+            "price": 12.324,
+            "rank": 1
+        },
+        {
+            "category": "cat4",
+            "id": 6,
+            "name": "product5",
+            "price": 123.324,
+            "rank": 1
+        }
+    ]
+}
