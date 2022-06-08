@@ -25,12 +25,12 @@
             "category": "cat2",
             "id": 4,
             "name": "product4",
-            "price": 15.324,
+            "price": 13.324,
             "rank": 3
         },
         {
             "category": "cat1",
-            "id": 5,
+            "id": 1,
             "name": "product1",
             "price": 12.324,
             "rank": 1
